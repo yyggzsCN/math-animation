@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/yangyue/Desktop/math-animation/media/videos/demo/1080p60/partial_movie_files/DeltaBraceScene/3529212410_2179149460_223132457.mp4'
+file 'file:/Users/yangyue/Desktop/math-animation/media/videos/demo/1080p60/partial_movie_files/DeltaBraceScene/3040924799_3598455449_3286589133.mp4'
+file 'file:/Users/yangyue/Desktop/math-animation/media/videos/demo/1080p60/partial_movie_files/DeltaBraceScene/3040924799_1704852926_3614584843.mp4'
